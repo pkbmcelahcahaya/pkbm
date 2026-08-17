@@ -1,0 +1,8 @@
+{
+  "name": "PKBM Celah Cahaya - LMS & Learning Streak",
+  "description": "Platform LMS dan Pembelajaran Daring PKBM Celah Cahaya dengan pelacak Learning Streak konsistensi belajar harian Paket B dan Paket C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
